@@ -79,4 +79,4 @@ time="2019-07-02T17:10:36-04:00" level=info msg="info example log with params" f
 
 ## Note
 
-Future implementations carried out in different languages ​​will be based on a binary go-logger, respecting the structure defined in the loggeo in the services.
+Future implementations carried out in different languages ​​will be based on a binary go-logger, respecting the structure defined independently of language.
